@@ -8,6 +8,7 @@ https://github.com/sibbay-ai/public/blob/master/%E8%B4%A1%E7%8C%AE%E8%80%85%E8%A
 ### ICP 操作测试  
 
 - [ ] 创建测试用 repo 并建立 master/develop 分支
+- [ ] 将 mentor 添加为 Collaborator
 - [ ] 创建 bug issue
 - [ ] 创建需求 issue
 - [ ] 加载 codeclimate 以确保提交的 pull request 触发代码质量检查
@@ -24,7 +25,7 @@ https://github.com/sibbay-ai/public/blob/master/%E8%B4%A1%E7%8C%AE%E8%80%85%E8%A
 - [ ] 创建协作 issue 并向 mentor 发起协作
 - [ ] 完成协作过程并统计时间
 
-**以上所有创建的 repo, issue, pr 需在此认证 issue 中进行引用回复。**
+**以上所有创建的 repo, issue, pr 需在此认证 issue 中进行引用回复到同一楼内。**
 
 ### 结果记录
 
